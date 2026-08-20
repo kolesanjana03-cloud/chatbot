@@ -1,0 +1,6 @@
+{
+  "name": "RLS College Of BCA",
+  "description": "A comprehensive student assistant portal for RLS College Of BCA featuring academic dashboard, courses, interactive timetable, faculty directory, campus events, and college contact details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
